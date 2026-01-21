@@ -1,12 +1,7 @@
 # 🏋️ Gym Studio Website
 
-A modern and responsive Gym / Fitness Studio website designed to showcase gym facilities, trainers, workout programs, and class schedules.  
+A modern and responsive Gym Studio website designed to showcase gym facilities, trainers, workout programs, and class schedules.  
 This project is suitable for gyms, fitness centers, and personal training studios.
-
----
-
-## 🔗 Live Demo
-https://deepakdyat.github.io/gym-studio/
 
 ---
 
@@ -43,10 +38,7 @@ gym-studio/
 ---
 
 ## 🚀 How to Run
-1. Clone the repository  
-   git clone https://github.com/DeepakDyat/gym-studio.git
-
-2. Open index.html in any modern browser
+Open index.html in any modern browser
 
 ---
 
